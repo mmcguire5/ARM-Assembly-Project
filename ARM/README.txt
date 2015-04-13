@@ -1,0 +1,8 @@
+--This was a project that I worked on with one other partner during my first semester of assembly language in undergrad
+--The project is written in ARM assembly language using Keil Microvision
+--The project created a game in which an asterisk starts in the middle of a board. The game begins when the user inputs 'i,' 'j,' 'k,' or 'm,' representing up, left, right, down respectively
+--The user must keep the asterisk from hitting a wall
+--The user gets one point for every space he/she moves
+--Every 10 points, the game doubles in speed
+--The game ends when the asterisk hits a wall
+--For this project, we implemented much of what we learned throughout the semester including timers, character output/input, interrupts, baud rate, algorithms, etc... 
